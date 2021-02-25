@@ -1,0 +1,21 @@
+csapat tagok
+6
+kortanaz@gmail.com
+szabosebestyen.mail@gmail.com
+oliverszbo@gmail.com
+
+students.nive.frontend@codecool.com
+
+1. welcome + csapattagok
+2. miről szólt a hét
+3. team feladat miről szól + kihívások
+4. konkrétan screenshottal bemutatni az elkészül kód egy részét
+
+2. hét
+2.oldal
+
+3.hét 
+registration login
+
+4.hét 
+github page  github link + prezi az értékelő emailben  (18. szerdára 1 kérdés)
